@@ -1,5 +1,5 @@
 # commons
-common tool functions for Golang. package randstr is to create a random string with a specified length.
+common tool functions for Golang. The package randstr is to create a random string with a specified length.
 
 Import it in your program as:
 ```go
